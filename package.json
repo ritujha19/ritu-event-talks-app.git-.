@@ -1,0 +1,11 @@
+{
+  "name": "bigquery-release-notes-explorer",
+  "version": "1.0.0",
+  "description": "Explorer for Google Cloud BigQuery Release Notes with X/Twitter integration",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y http-server -p 8080 -c-1"
+  },
+  "dependencies": {},
+  "private": true
+}
